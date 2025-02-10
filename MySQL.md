@@ -30,6 +30,11 @@ Caso não queira o serviço iniciando com o boot da máquina
 sudo systemctl disable mysql.service
 ```
 
+Ativar/desativar o serviço
+```bash
+sudo /etc/init.d/mysql start|stop
+```
+
 Se houver retorno, está instalado corretamente
 ```bash
 $ mysql --version
