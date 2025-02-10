@@ -5,7 +5,7 @@ Este repositório destina-se a auxiliar as instalações e configurações de _s
 * [Composer](https://github.com/fabricyoc/linux-install/blob/main/Composer.md)
 * [Java](https://github.com/fabricyoc/linux-install/blob/main/Java.md)
 * [DBeaver](https://github.com/fabricyoc/linux-install/blob/main/DBeaver.md)
-* [Raspberry Pi Pico W](https://github.com/fabricyoc/linux-install/blob/main/RaspberryPiPicoW.md)
+* [RaspberryPicoW](https://github.com/fabricyoc/linux-install/blob/main/RaspberryPiPicoW.md)
 
 ## Autor
 
