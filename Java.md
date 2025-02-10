@@ -64,3 +64,8 @@ Limpe a tela de saída colocando o código no método main()
 ```bash
 System.out.print("\033[H\033[2J");
 ```
+
+Se houver retorno, está instalado corretamente
+```bash
+$ java --version
+```

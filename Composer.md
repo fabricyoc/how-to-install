@@ -30,6 +30,11 @@ Dê a permissão de execução
 ```bash
 # chmod +x /usr/local/bin/composer
 ```
+
+Se houver retorno, está instalado corretamente
+```bash
+$ composer --version
+```
 ## Documentação
 
 [Documentação](https://getcomposer.org/)
