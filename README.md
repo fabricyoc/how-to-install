@@ -4,6 +4,7 @@ Este repositório destina-se a auxiliar as instalações e configurações de _s
 * [MySQL](https://github.com/fabricyoc/linux-install/blob/main/MySQL.md)
 * [Composer](https://github.com/fabricyoc/linux-install/blob/main/Composer.md)
 * [Java](https://github.com/fabricyoc/linux-install/blob/main/Java.md)
+* [DBeaver](https://github.com/fabricyoc/linux-install/blob/main/DBeaver.md)
 
 ## Autor
 
