@@ -11,17 +11,17 @@ $ sudo -i
 ```
 
 Acesse o MySQL como root
-```bash
+```root
 # mysql
 ```
 
 Crie um novo usuário no MySQL
-```bash
+```mysql
 CREATE USER 'usuario'@'localhost' IDENTIFIED BY 'senha';
 ```
 
 Atribua as permissões ao novo usuário
-```bash
+```mysql
 GRANT ALL PRIVILEGES ON *.* TO 'usuario'@'localhost';
 ```
 

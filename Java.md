@@ -27,7 +27,7 @@ $ sudo nano /usr/share/applications/eclipse.desktop
 ```
 
 Adicione a configuração dentro do arquivo
-```bash
+```text
 [Desktop Entry]
 Name=Eclipse
 Comment=IDE para desenvolvedores
@@ -61,7 +61,7 @@ F5
 ```
 
 Limpe a tela de saída colocando o código no método main()
-```bash
+```java
 System.out.print("\033[H\033[2J");
 ```
 

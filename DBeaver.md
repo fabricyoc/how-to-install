@@ -15,7 +15,7 @@ $ mysql -h localhost -u seu_usuario -p senha
 ```
 
 Crie uma nova base de dados
-```bash
+```mysql
 create database aprendendo;
 ```
 

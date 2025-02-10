@@ -70,8 +70,8 @@ int main()
 }
 ```
 
-## Possíveis erros
-* Picotool não conseguiu se conectar (_RP2040 device at bus 1, address 7 appears to be in BOOTSEL mode, but picotool was unable to connect. Maybe try 'sudo' or check your permissions_)
+## Erro 01: Picotool não conseguiu se conectar
+* _RP2040 device at bus 1, address 7 appears to be in BOOTSEL mode, but picotool was unable to connect. Maybe try 'sudo' or check your permissions_
 Conecte a Raspberry e configure o **bootsel**
 Verifique se o dispositivo RPI-RP2 está disponível
 ~~~bash
