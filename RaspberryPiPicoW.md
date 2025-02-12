@@ -105,6 +105,50 @@ $ sudo usermod -aG plugdev $USER
 ~~~
 Reinicie o sistema ou faça logout/login
 
+## Erro 02: Serial monitor não exibe printf()
+
+Habilite o USB no CMakeLists do projeto e execute o código na Raspberry Pi Pico W
+~~~text
+pico_enable_stdio_usb(NomeProjeto 1)
+~~~
+
+Verifique se a USB foi encontrada pelo sistema (caso encontre, o comando retorna algo)
+~~~bash
+$ lsusb | grep -i raspberry
+~~~
+
+Dê permissão para usuário comum acessar a porta
+~~~text
+$ sudo usermod -a -G dialout $USER
+~~~
+
+Reinicie o sistema
+~~~text
+$ sudo reboot
+~~~
+
+
+#### Visualizando de forma manual
+Instale o utilitário _screen_
+~~~text
+$ sudo apt install screen
+~~~
+
+Monitore a porta USB
+~~~text
+$ screen /dev/ttyACM0 115200
+~~~
+
+Para sair
+~~~text
+CTRL + A, K
+~~~
+
+#### Visualizando no VS Code
+* Abra o terminal
+* Selecione a porta de comunicação (normalmente: **/dev/ttyACM0**)
+
+
 ## Autores
 
 - [@fabricyoc](https://www.github.com/fabricyoc)
