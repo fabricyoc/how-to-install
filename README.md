@@ -2,6 +2,7 @@
 Este repositório destina-se a auxiliar as instalações e configurações de _softwares_ no ambiente Linux.
 * [Composer](https://github.com/fabricyoc/how-to-install/blob/main/Composer.md)
 * [DBeaver](https://github.com/fabricyoc/how-to-install/blob/main/DBeaver.md)
+* [GCC](https://github.com/fabricyoc/how-to-install/blob/main/GCC.md)
 * [Java](https://github.com/fabricyoc/how-to-install/blob/main/Java.md)
 * [MongoDB](https://github.com/fabricyoc/how-to-install/blob/main/MongoDB.md)
 * [MySQL](https://github.com/fabricyoc/how-to-install/blob/main/MySQL.md)
