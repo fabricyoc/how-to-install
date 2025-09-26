@@ -12,6 +12,8 @@ Dentro do diretório extraído haverá o **mingw64**
 * Mova esse diretório para `C:`
 
 ## Configuração do Windows
+> Esta é a parte mais complexa do processo, portanto é necessário seguir o passo a passo, de forma rigorosa, para o êxito da instalação.
+
 1. Clique no botão com a `Bandeira do Windows`
 2. Busque por `Editar as variáveis de ambiente para sua conta`
 3. Vá em `Variáveis de Ambiente...`
