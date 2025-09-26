@@ -38,4 +38,6 @@ Dentro do diretório extraído haverá o **mingw64**
 3. Se aparecer `gcc: fatal error`, o GCC foi instalado corretamente
 
 ## Configuração do VSCode
+> Há diversas extensões para essa finalidade, contudo, utilizo bastante esta.
+
 1. Baixe e instale extensão **C/C++ Compile Run** do usuário danielpinto8zz6 para compilar os códigos com apenas um clique.
