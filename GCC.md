@@ -11,7 +11,7 @@ Extraia os diretórios/arquivos
 Dentro do diretório extraído haverá o **mingw64**
 * Mova esse diretório para `C:`
 
-### Configuração do Windows
+## Configuração do Windows
 1. Clique no botão com a `Bandeira do Windows`
 2. Busque por `Editar as variáveis de ambiente para sua conta`
 3. Vá em `Variáveis de Ambiente...`
@@ -30,10 +30,10 @@ Dentro do diretório extraído haverá o **mingw64**
     6. Clique em **OK** novamente
 
 
-### Para testar o GCC do Windows
+## Para testar o GCC do Windows
 1. Abra o CMD (*Prompt de Comando*) do Windows
 2. Digite `gcc` e clique em **Enter**
 3. Se aparecer `gcc: fatal error`, o GCC foi instalado corretamente
 
-### Configuração do VSCode
+## Configuração do VSCode
 1. Baixe e instale extensão **C/C++ Compile Run** do usuário danielpinto8zz6 para compilar os códigos com apenas um clique.
