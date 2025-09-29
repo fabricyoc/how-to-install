@@ -10,6 +10,9 @@ Este repositório destina-se a auxiliar as instalações e configurações de _s
 * [PHP](https://github.com/fabricyoc/how-to-install/blob/main/PHP.md)
 * [Raspberry Pi Pico W](https://github.com/fabricyoc/how-to-install/blob/main/RaspberryPiPicoW.md)
 
-## Autor
+# Configurações Linux
+* [Usuários Linux](https://github.com/fabricyoc/how-to-install/blob/main/Usuarios.md)
 
+
+# Autor
 - [@fabricyoc](https://fabricyoc.github.io/)
