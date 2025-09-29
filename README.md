@@ -12,6 +12,7 @@ Este repositório destina-se a auxiliar as instalações e configurações de _s
 
 # Configurações Linux
 * [Usuários Linux](https://github.com/fabricyoc/how-to-install/blob/main/Usuarios.md)
+* [Permissões Linux](https://github.com/fabricyoc/how-to-install/blob/main/Permissoes.md)
 
 
 # Autor
